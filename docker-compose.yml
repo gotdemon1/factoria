@@ -6,7 +6,7 @@ services:
       args:
       # Check buildinfo.json for supported versions and SHAs
       # https://github.com/factoriotools/factorio-docker/blob/master/buildinfo.json
-      - VERSION=1.1.42
+      - VERSION=1.1.41
     ports:
      - "34197:34197/udp"
 #     - "27015:27015/tcp"
@@ -21,5 +21,5 @@ services:
         - SAVE_NAME=trio
         - UPDATE_MODS_ON_START=true
         - USERNAME=gotdemon
-#        - TOKEN=ee33f29685e4bb2c4cba6cabc6ab50
+        - TOKEN=ee33f29685e4bb2c4cba6cabc6ab50
 #      - PORT=34198
