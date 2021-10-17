@@ -6,7 +6,7 @@ services:
       args:
       # Check buildinfo.json for supported versions and SHAs
       # https://github.com/factoriotools/factorio-docker/blob/master/buildinfo.json
-      - VERSION=1.1.41
+      - VERSION=1.1.42
     ports:
      - "34197:34197/udp"
 #     - "27015:27015/tcp"
@@ -14,12 +14,11 @@ services:
      - ./mods:/factorio/mods
      - ./saves:/factorio/saves
      - ./config:/factorio/config
-     - ./mods:/factorio/mods
     environment:
 #      - PUID=1000
 #      - PGID=1000
         - LOAD_LATEST_SAVE=true
-        - SAVE_NAME =trio
+        - SAVE_NAME=trio
         - UPDATE_MODS_ON_START=true
         - USERNAME=gotdemon
 #        - TOKEN=ee33f29685e4bb2c4cba6cabc6ab50
