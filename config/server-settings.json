@@ -37,7 +37,7 @@
   "minimum_latency_in_ticks": 0,
 
   "_comment_ignore_player_limit_for_returning_players": "Players that played on this map already can join even when the max player limit was reached.",
-  "ignore_player_limit_for_returning_players": false,
+  "ignore_player_limit_for_returning_players": true,
 
   "_comment_allow_commands": "possible values are, true, false and admins-only",
   "allow_commands": "admins-only",
@@ -46,7 +46,7 @@
   "autosave_interval": 5,
 
   "_comment_autosave_slots": "server autosave slots, it is cycled through when the server autosaves.",
-  "autosave_slots": 5,
+  "autosave_slots": 10,
 
   "_comment_afk_autokick_interval": "How many minutes until someone is kicked when doing nothing, 0 for never.",
   "afk_autokick_interval": 0,
@@ -57,7 +57,7 @@
   "only_admins_can_pause_the_game": false,
 
   "_comment_autosave_only_on_server": "Whether autosaves should be saved only on server or also on all connected clients. Default is true.",
-  "autosave_only_on_server": true,
+  "autosave_only_on_server": false,
 
   "_comment_non_blocking_saving": "Highly experimental feature, enable only at your own risk of losing your saves. On UNIX systems, server will fork itself to create an autosave. Autosaving on connected Windows clients will be disabled regardless of autosave_only_on_server option.",
   "non_blocking_saving": false,
