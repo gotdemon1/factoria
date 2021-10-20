@@ -9,6 +9,101 @@
     },
     
     {
+      "name": "5dim_autofill",
+      "enabled": false
+    },
+    
+    {
+      "name": "5dim_core",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-containers",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-locales",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-programmable-structures",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-signals",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tank",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tumbler",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-warden",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-zones",
+      "enabled": false
+    },
+    
+    {
+      "name": "AAI_Language_Pack",
+      "enabled": false
+    },
+    
+    {
+      "name": "AbandonedRuins",
+      "enabled": false
+    },
+    
+    {
       "name": "alien-biomes",
       "enabled": true
     },
@@ -19,7 +114,72 @@
     },
     
     {
+      "name": "ArmouredBiters",
+      "enabled": false
+    },
+    
+    {
+      "name": "assault-rifle",
+      "enabled": true
+    },
+    
+    {
+      "name": "blueprint_flip_and_turn",
+      "enabled": false
+    },
+    
+    {
+      "name": "bobenemies",
+      "enabled": false
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": false
+    },
+    
+    {
+      "name": "bobores",
+      "enabled": false
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": false
+    },
+    
+    {
+      "name": "Clockwork",
+      "enabled": false
+    },
+    
+    {
+      "name": "combat-mechanics-overhaul",
+      "enabled": false
+    },
+    
+    {
+      "name": "Craftable-vehicle-machine-gun",
+      "enabled": false
+    },
+    
+    {
+      "name": "deadlock-beltboxes-loaders",
+      "enabled": true
+    },
+    
+    {
+      "name": "DeadlockBlackRubberBelts",
+      "enabled": true
+    },
+    
+    {
       "name": "Dectorio",
+      "enabled": true
+    },
+    
+    {
+      "name": "ElectricTrain",
       "enabled": true
     },
     
@@ -29,8 +189,48 @@
     },
     
     {
+      "name": "factoriohd_base",
+      "enabled": false
+    },
+    
+    {
+      "name": "factoriohd_logistics",
+      "enabled": false
+    },
+    
+    {
+      "name": "factoriohd_military",
+      "enabled": false
+    },
+    
+    {
+      "name": "factoriohd_modpack",
+      "enabled": false
+    },
+    
+    {
+      "name": "factoriohd_production",
+      "enabled": false
+    },
+    
+    {
+      "name": "factoriohd_terrain",
+      "enabled": false
+    },
+    
+    {
+      "name": "factoryplanner",
+      "enabled": false
+    },
+    
+    {
       "name": "flib",
       "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlow",
+      "enabled": false
     },
     
     {
@@ -39,7 +239,42 @@
     },
     
     {
+      "name": "FuelTrainStop",
+      "enabled": true
+    },
+    
+    {
+      "name": "gore-updated",
+      "enabled": false
+    },
+    
+    {
+      "name": "grappling-gun",
+      "enabled": false
+    },
+    
+    {
+      "name": "helmod",
+      "enabled": false
+    },
+    
+    {
       "name": "IndustrialRevolution",
+      "enabled": true
+    },
+    
+    {
+      "name": "IndustrialRevolution-ExtendedCompatibility",
+      "enabled": true
+    },
+    
+    {
+      "name": "IndustrialRevolutionStacking",
+      "enabled": true
+    },
+    
+    {
+      "name": "IndustrialRevolution_AutomaticTrainFuelStop",
       "enabled": true
     },
     
@@ -55,7 +290,67 @@
     
     {
       "name": "informatron",
+      "enabled": false
+    },
+    
+    {
+      "name": "IR2_RubberTreeSelectiveBreeding",
+      "enabled": false
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": false
+    },
+    
+    {
+      "name": "krastorio-spidertron-buff",
+      "enabled": false
+    },
+    
+    {
+      "name": "Krastorio2",
+      "enabled": false
+    },
+    
+    {
+      "name": "krastorio2_extended_endgame",
+      "enabled": false
+    },
+    
+    {
+      "name": "KS_Combat_Updated",
       "enabled": true
+    },
+    
+    {
+      "name": "Logistic-Gun-Turret",
+      "enabled": true
+    },
+    
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": false
+    },
+    
+    {
+      "name": "Long-Underground-Belts",
+      "enabled": false
+    },
+    
+    {
+      "name": "Long_Range_Radar",
+      "enabled": true
+    },
+    
+    {
+      "name": "LTN_Content_Reader",
+      "enabled": false
+    },
+    
+    {
+      "name": "LTN_Language_Pack",
+      "enabled": false
     },
     
     {
@@ -64,8 +359,28 @@
     },
     
     {
+      "name": "Natural_Evolution_Enemies_Redux",
+      "enabled": false
+    },
+    
+    {
+      "name": "Nightfall",
+      "enabled": false
+    },
+    
+    {
+      "name": "Nova-Natural_Evolution_Enemies",
+      "enabled": false
+    },
+    
+    {
       "name": "Power Armor MK3",
       "enabled": true
+    },
+    
+    {
+      "name": "qol_research",
+      "enabled": false
     },
     
     {
@@ -74,8 +389,63 @@
     },
     
     {
+      "name": "RampantArsenal",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantEvolution",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantIndustry",
+      "enabled": false
+    },
+    
+    {
+      "name": "RampantMaintenance",
+      "enabled": false
+    },
+    
+    {
+      "name": "RecipeBook",
+      "enabled": false
+    },
+    
+    {
+      "name": "robot_attrition",
+      "enabled": false
+    },
+    
+    {
       "name": "RPGsystem",
       "enabled": true
+    },
+    
+    {
+      "name": "rso-mod",
+      "enabled": false
+    },
+    
+    {
+      "name": "rz-K2PersonalTweaks",
+      "enabled": false
+    },
+    
+    {
+      "name": "SchallLanguagePack",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallTankPlatoon",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-projector",
+      "enabled": false
     },
     
     {
@@ -84,8 +454,93 @@
     },
     
     {
+      "name": "Side Inserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "sonaxaton-krastorio-fuel-tweaks",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration-graphics",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration-graphics-2",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration-graphics-3",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration-graphics-4",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration-graphics-5",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration-hr-graphics",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration-postprocess",
+      "enabled": false
+    },
+    
+    {
       "name": "Squeak Through",
       "enabled": true
+    },
+    
+    {
+      "name": "StarCraftAntologyMusicPack",
+      "enabled": false
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": false
+    },
+    
+    {
+      "name": "TerrainEvolution",
+      "enabled": false
+    },
+    
+    {
+      "name": "Todo-List",
+      "enabled": false
+    },
+    
+    {
+      "name": "train-log",
+      "enabled": true
+    },
+    
+    {
+      "name": "VehicleSnap",
+      "enabled": false
+    },
+    
+    {
+      "name": "YARM",
+      "enabled": false
     }
   ]
 }
