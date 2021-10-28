@@ -25,12 +25,12 @@
     
     {
       "name": "aai-industry",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "aai-locales",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -45,7 +45,7 @@
     
     {
       "name": "aai-signal-transmission",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -95,12 +95,17 @@
     
     {
       "name": "AAI_Language_Pack",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "AbandonedRuins",
-      "enabled": false
+      "enabled": true
+    },
+    
+    {
+      "name": "AbandonedRuins-Krastorio2",
+      "enabled": true
     },
     
     {
@@ -120,7 +125,7 @@
     
     {
       "name": "assault-rifle",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -165,12 +170,12 @@
     
     {
       "name": "deadlock-beltboxes-loaders",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "DeadlockBlackRubberBelts",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -180,7 +185,7 @@
     
     {
       "name": "ElectricTrain",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -230,7 +235,7 @@
     
     {
       "name": "FluidMustFlow",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -240,7 +245,7 @@
     
     {
       "name": "FuelTrainStop",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -260,27 +265,27 @@
     
     {
       "name": "IndustrialRevolution",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "IndustrialRevolution-ExtendedCompatibility",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "IndustrialRevolutionStacking",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "IndustrialRevolution_AutomaticTrainFuelStop",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "IndustrialRevolution_Language_Pack",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -290,7 +295,7 @@
     
     {
       "name": "informatron",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -300,7 +305,22 @@
     
     {
       "name": "jetpack",
-      "enabled": false
+      "enabled": true
+    },
+    
+    {
+      "name": "K2-automated-artillery",
+      "enabled": true
+    },
+    
+    {
+      "name": "K2SETweaks",
+      "enabled": true
+    },
+    
+    {
+      "name": "K2StartDisable",
+      "enabled": true
     },
     
     {
@@ -310,7 +330,7 @@
     
     {
       "name": "Krastorio2",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -320,12 +340,12 @@
     
     {
       "name": "KS_Combat_Updated",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "Logistic-Gun-Turret",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -340,7 +360,7 @@
     
     {
       "name": "Long_Range_Radar",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -375,7 +395,7 @@
     
     {
       "name": "Power Armor MK3",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -409,13 +429,18 @@
     },
     
     {
+      "name": "rampart_heavy_wall",
+      "enabled": true
+    },
+    
+    {
       "name": "RecipeBook",
       "enabled": false
     },
     
     {
       "name": "robot_attrition",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -430,22 +455,22 @@
     
     {
       "name": "rz-K2PersonalTweaks",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "SchallLanguagePack",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "SchallTankPlatoon",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "shield-projector",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -455,7 +480,7 @@
     
     {
       "name": "Side Inserters",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -465,42 +490,42 @@
     
     {
       "name": "space-exploration",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "space-exploration-graphics",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "space-exploration-graphics-2",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "space-exploration-graphics-3",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "space-exploration-graphics-4",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "space-exploration-graphics-5",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "space-exploration-hr-graphics",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "space-exploration-postprocess",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -530,12 +555,12 @@
     
     {
       "name": "train-log",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "VehicleSnap",
-      "enabled": false
+      "enabled": true
     },
     
     {

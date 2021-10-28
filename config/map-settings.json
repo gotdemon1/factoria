@@ -14,27 +14,27 @@
     "diffusion_ratio": 0.02,
     "min_to_diffuse": 15,
     "ageing": 1, 
-    "expected_max_per_chunk": 150,
+    "expected_max_per_chunk": 700,
     "min_to_show_per_chunk": 50,
-    "min_pollution_to_damage_trees": 60,
-    "pollution_with_max_forest_damage": 150,
-    "pollution_per_tree_damage": 50,
-    "pollution_restored_per_tree_damage": 10,
-    "max_pollution_to_restore_trees": 20,
+    "min_pollution_to_damage_trees": 160,
+    "pollution_with_max_forest_damage": 300,
+    "pollution_per_tree_damage": 300,
+    "pollution_restored_per_tree_damage": 75,
+    "max_pollution_to_restore_trees": 150,
     "enemy_attack_pollution_consumption_modifier": 1
   },
   "enemy_evolution":
   {
     "enabled": true,
-    "time_factor": 0.000003,
+    "time_factor": 0.000002,
     "destroy_factor": 0.002,
-    "pollution_factor": 0.0000009
+    "pollution_factor": 0.00002
   },
   "enemy_expansion":
   {
     "enabled": true,
-    "min_base_spacing": 3,
-    "max_expansion_distance": 7,
+    "min_base_spacing": 7,
+    "max_expansion_distance": 10,
     "friendly_base_influence_radius": 2,
     "enemy_building_influence_radius": 2,
     "building_coefficient": 0.1,
@@ -116,5 +116,5 @@
     "overload_multipliers": [2, 3, 4],
     "negative_path_cache_delay_interval": 20
   },
-  "max_failed_behavior_count": 3
+  "max_failed_behavior_count": 5
 }
