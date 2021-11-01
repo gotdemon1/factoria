@@ -334,6 +334,11 @@
     },
     
     {
+      "name": "Krastorio2RFAC",
+      "enabled": true
+    },
+    
+    {
       "name": "krastorio2_extended_endgame",
       "enabled": false
     },
@@ -485,7 +490,7 @@
     
     {
       "name": "sonaxaton-krastorio-fuel-tweaks",
-      "enabled": false
+      "enabled": true
     },
     
     {
